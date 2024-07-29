@@ -1,0 +1,240 @@
+.one{
+    display: flex;
+    margin: 50px;
+    
+
+
+    
+}
+.two{
+    margin-right: 40px;
+    box-shadow: 10px;
+    border-radius: 10px;
+    border: 1px solid #e3d1f5;
+    margin-right: 80px;
+    background-color: rgb(241, 238, 238);
+}
+.three{
+    margin-right: 40px;
+    box-shadow: 10px;
+    margin-right: 80px;
+    border-radius: 10px;
+    border: 1px solid #e3d1f5;
+    background-color: #ebf1e4;
+}
+
+    
+
+
+.four{
+    margin-right: 40px;
+    box-shadow: 10px;
+    margin-right: 80px;
+    border-radius: 10px;
+    border: 1px solid #e3d1f5;
+    background-color: rgb(226, 221, 217);
+}
+.six{
+    display: flex;
+    margin: 50px;
+    border: 5px;
+    
+
+}
+.nine{
+    display: flex;
+    margin: 50px;
+    margin-right: 20px;
+}
+.seven{
+    margin-right: 20px;
+    background-color: #f4f4f5;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 1px solid white;
+    padding: 20px;
+}
+.eight{
+    margin-right: 20px;
+    background-color: #f4f4f5;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 1px solid beige;
+    padding: 20px;
+
+
+}
+.ten{
+    margin-right: 20px;
+    background-color: #f4f4f5;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 1px solid beige;
+    padding: 20px;
+    text-align: justify;
+}
+.elevin{
+    margin-right: 20px;
+    background-color: #f4f4f5;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    border: 1px solid beige;
+    text-align: justify;
+
+
+}
+.img-para{
+    display: flex;
+    margin: 30px;
+    gap: 30px;
+    padding: 10px;
+    border: 1px solid white;
+    box-shadow: 20px;
+    border-radius: 5px;
+    
+    background-color: rgb(240, 220, 227);
+}
+.para{
+    height: 400px;
+    width: 600px;
+    margin-right: 50px;
+    
+    padding: 20px;
+    text-align: justify;
+    box-shadow: 20px  white;
+    
+
+}
+.im{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 400px;
+    width: 600px;
+    
+}
+.but{
+    background-color: rgb(6, 6, 207);
+    color: white;
+    padding-top: 10px;
+    padding-left: 18px;
+    margin-right: 18px;
+    margin-bottom: 22px;
+font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px;
+    width: 100px;
+    height: 40px;
+    padding-bottom: 10px;
+    border: 1px solid blueviolet;
+
+    cursor: pointer;
+    margin: 50px;
+    
+    
+}
+.but:hover{
+    background-color: brown;
+}
+.ball{
+    background-color: hwb(270 71% 11%);
+    text-align: center;
+    height: 50px;
+    border-bottom: 12px;
+    margin: 30px;
+    border: 1px solid #e3d1f5;
+    border-radius: 8px;
+    padding: 10px;
+}
+.button{
+    background-color: rgb(218, 0, 29);
+    color: white;
+    border: 1px solid red;
+    padding-top: 8px;
+    padding-left: 18px;
+    margin-right: 18px;
+    margin-bottom: 22px;
+    font-size: 16px;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px;
+    cursor: pointer;
+    margin: 20px;
+    
+}
+.button:hover{
+background-color: chartreuse;
+}
+.con{
+    display: flex;
+    margin: 50px;
+    background-color: rgb(246, 235, 255);
+    border: 1px solid #e3d1f5;
+    height: 500px;
+    width: 700px;
+}
+.aas{
+    height: 150px;
+    width: 300px;
+    text-align: center;
+    margin-right: 40px;
+    box-shadow: 70px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.tact{
+    margin-right: 30px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+.vision{
+    display: flex;
+    margin: 50px;
+}
+.we{
+    height: 200px;
+    padding: 20px;
+    width: 500px;
+    background-color: #f5f2f38f;
+    box-shadow: 60px;
+    color: rgb(171, 102, 235);
+    
+    margin-right: 50px;
+    border-radius: 10px;
+    border: 1px solid rgb(153, 141, 163);
+   
+}
+.are{
+    height: 200px;
+    width: 500px;
+    background-color: #f1d4d4;
+    box-shadow: 60px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border: 2px solid rgb(189, 135, 135);
+    padding: 20px;
+
+
+}
+.you{
+    height: 200px;
+    width: 500px;
+    background-color: hwb(0 94% 4%);
+    box-shadow: 80px;
+    border: 1px solid blueviolet;
+    margin-right: 50px;
+    color: rgb(123, 123, 207);
+    padding-right: 10px;
+    
+    border-radius: 10px;
+    text-shadow: 10px;
+    padding: 20px;
+ 
+}
